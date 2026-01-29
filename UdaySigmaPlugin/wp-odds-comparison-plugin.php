@@ -8,7 +8,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'WPODDS_VERSION', '1.0.0' );
+define( 'WPODDS_VERSION', '1' );
 define( 'WPODDS_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 
 require_once WPODDS_PLUGIN_DIR . 'src/Core/Autoloader.php';

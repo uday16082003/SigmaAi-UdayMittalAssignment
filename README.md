@@ -1,4 +1,5 @@
-## Installation
+Detailed Doc for this Assignment: [https://docs.google.com/document/d/1NR6PjkwaKX79XD3SAJpjcXc7yBvMcy0HR4bOLgvHH_4/edit?pli=1&tab=t.0
+## Installation](url)
 
 1. Copy this folder to: `wp-content/plugins/wp-odds-comparison`
 2. Activate "WP Odds Comparison" in WordPress admin

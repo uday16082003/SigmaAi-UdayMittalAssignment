@@ -1,0 +1,41 @@
+.wpodds-table-wrapper {
+    margin: 1.5em 0;
+    overflow-x: auto;
+}
+
+.wpodds-market {
+    margin-bottom: 2em;
+}
+
+.wpodds-market__title {
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+}
+
+.wpodds-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9em;
+}
+
+.wpodds-table th,
+.wpodds-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.wpodds-table th {
+    background-color: #f7f7f7;
+    font-weight: 600;
+}
+
+.wpodds-table__selection {
+    text-align: left;
+    white-space: nowrap;
+}
+
+.wpodds-table__odd--na {
+    color: #999;
+}
+

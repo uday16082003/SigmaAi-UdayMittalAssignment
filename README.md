@@ -65,7 +65,7 @@ Navigate to **Odds Comparison** in the WordPress admin menu to configure:
 
 ## Future Enhancements
 
-To make this production-ready, you would want to:
+To make this production-ready, in future:
 - Add more real scrapers for actual bookmaker websites
 - Implement better error logging
 - Add rate limiting to respect website terms of service
